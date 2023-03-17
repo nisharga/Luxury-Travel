@@ -11,6 +11,18 @@ const Router = createBrowserRouter([
         path: "contacts/:contactId",
         element: "<Contact />",
       },
+      {
+        path: "nk",
+        element: "Nisharga Kabir",
+      },
+      {
+        path: "/gol",
+        element: "Our Goal",
+      },
+      {
+        path: "/support",
+        element: "Support",
+      },
     ],
   },
 ]);

@@ -5,3 +5,10 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+.signup_btn {
+  margin-left: 10px;
+  background: rgba(5, 100, 153, 0.8);
+  border-radius: 44px;
+  padding: 12px 28px;
+  color: #fff;
+}

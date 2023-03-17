@@ -1,9 +1,9 @@
-import MobileHome from "./Components/Home/MobileHome/MobileHome";
+import Nav from "./Shared/Nav/Nav";
 
 function App() {
   return (
     <div>
-      <MobileHome />
+      <h1>App.js</h1>
     </div>
   );
 }
