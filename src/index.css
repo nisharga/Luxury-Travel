@@ -12,3 +12,8 @@ body {
   padding: 12px 28px;
   color: #fff;
 }
+@media (min-width: 1024px) and (max-width: 1280px) {
+  .signup_btn {
+    padding: 8px 12px;
+  }
+}

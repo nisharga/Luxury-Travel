@@ -4,6 +4,7 @@ import NavResponsiveIcon from "../../Assets/Homepage/NavDropIcon/NavResponsiveIc
 import Logo from "../Logo/Logo";
 import NavItemsMobile from "./NavItemsMobile/NavItemsMobile";
 import NavItemsPC from "./NavItemsPC/NavItemsPC";
+import NavRight from "./NavRight/NavRight";
 
 const Nav = () => {
   return (
@@ -22,10 +23,7 @@ const Nav = () => {
           <NavItemsPC />
         </div>
         <div className="navbar-end">
-          <Link to="/login">Login</Link>
-          <Link to="/signup" className="signup_btn">
-            Sign Up
-          </Link>
+          <NavRight />
         </div>
       </div>
     </div>

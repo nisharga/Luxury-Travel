@@ -1,0 +1,19 @@
+.app h3 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 32px;
+}
+.app p {
+  color: #fff;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.app img {
+  width: 50%;
+  cursor: pointer;
+}
+.line img {
+  width: 80%;
+  opacity: 0.4;
+}
